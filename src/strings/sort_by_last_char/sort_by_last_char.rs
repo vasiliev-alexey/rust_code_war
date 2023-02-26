@@ -1,6 +1,7 @@
-use itertools::Itertools;
+
 
 fn sort_by_last_char(s: &str) -> Vec<String> {
+//use itertools::Itertools;
     // let mut s = s
     //     .split(" ")
     //     .map(|w| (w, w.chars().last().unwrap()))
