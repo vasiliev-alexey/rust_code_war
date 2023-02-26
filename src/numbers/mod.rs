@@ -3,3 +3,8 @@ pub mod square_sum;
 pub mod century;
 pub mod is_divisible;
 pub mod nearest_sq;
+mod quarter_of;
+mod row_sum_odd_number;
+mod is_square;
+mod powers_of_two;
+mod square_digits;
