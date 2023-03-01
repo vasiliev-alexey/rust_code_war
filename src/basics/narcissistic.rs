@@ -1,7 +1,7 @@
 fn narcissistic(num: u64) -> bool {
 
-    let numLen = num.to_string().len() as u32;
-    num.to_string().chars().fold( 0 , | acc , c|  acc +   (c.to_digit(10).unwrap() as u64).pow(numLen) ) ==num
+    let num_len = num.to_string().len() as u32;
+    num.to_string().chars().fold( 0 , | acc , c|  acc +   (c.to_digit(10).unwrap() as u64).pow(num_len) ) ==num
 
 }
 
