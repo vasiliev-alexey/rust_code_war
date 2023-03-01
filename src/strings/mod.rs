@@ -14,3 +14,5 @@ mod spoonerize;
 mod string_to_number;
 mod remove_char;
 mod disemvowel;
+mod string_end_with;
+mod freq_seq;

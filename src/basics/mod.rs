@@ -12,3 +12,8 @@ mod divisible_count;
 mod heron;
 mod pofi;
 mod summation;
+mod past;
+mod find_short;
+mod basic_op;
+mod incrementer;
+mod nb_dig;
