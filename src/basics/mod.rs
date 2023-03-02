@@ -18,3 +18,6 @@ mod basic_op;
 mod incrementer;
 mod nb_dig;
 mod zip_with;
+mod narcissistic;
+mod longest_consec;
+mod unique_in_order;
