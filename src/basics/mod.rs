@@ -17,3 +17,4 @@ mod find_short;
 mod basic_op;
 mod incrementer;
 mod nb_dig;
+mod zip_with;

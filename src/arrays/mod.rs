@@ -12,6 +12,7 @@ mod count_sheep;
 mod add_length;
 mod largest;
 mod invert;
+mod multiplication_table;
 
 
 
