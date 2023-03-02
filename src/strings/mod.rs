@@ -16,3 +16,6 @@ mod remove_char;
 mod disemvowel;
 mod string_end_with;
 mod freq_seq;
+mod abbrev_name;
+mod string_to_array;
+mod high;

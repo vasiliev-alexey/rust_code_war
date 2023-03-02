@@ -13,6 +13,9 @@ mod add_length;
 mod largest;
 mod invert;
 mod multiplication_table;
+mod josephus_survivor;
+mod monkey_count;
+mod remove_every_other;
 
 
 
