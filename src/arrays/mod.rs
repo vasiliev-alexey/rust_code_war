@@ -16,6 +16,7 @@ mod multiplication_table;
 mod josephus_survivor;
 mod monkey_count;
 mod remove_every_other;
+mod max_sequence;
 
 
 

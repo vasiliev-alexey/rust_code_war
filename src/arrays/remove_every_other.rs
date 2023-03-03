@@ -1,5 +1,5 @@
 fn remove_every_other(arr: &[u8]) -> Vec<u8> {
-    arr.iter().enumerate().filter(|(i, v)| (i + 1) % 2 != 0).map(|x| *x.1).collect::<Vec<u8>>()
+    arr.iter().enumerate().filter(|(i, _)| (i + 1) % 2 != 0).map(|x| *x.1).collect::<Vec<u8>>()
     //  arr.iter().step_by(2).copied().collect()
 }
 
