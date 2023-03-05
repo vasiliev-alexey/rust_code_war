@@ -19,3 +19,7 @@ mod freq_seq;
 mod abbrev_name;
 mod string_to_array;
 mod high;
+mod is_valid_ip;
+mod greet;
+mod camel_case;
+mod next_bigger_number;

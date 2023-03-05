@@ -1,5 +1,5 @@
 fn remove_every_other(arr: &[u8]) -> Vec<u8> {
-    arr.iter().enumerate().filter(|(i, v)| (i + 1) % 2 != 0).map(|x| *x.1).collect::<Vec<u8>>()
+    arr.iter().enumerate().filter(|(i, _)| (i + 1) % 2 != 0).map(|x| *x.1).collect::<Vec<u8>>()
     //  arr.iter().step_by(2).copied().collect()
 }
 
@@ -16,7 +16,7 @@ mod tests {
 
 
 /* Removing Elements
-Take an array and remove every second element from the array. Always keep the first element and start removing with the next element.
+Take an array and remov e every second element from the array. Always keep the first element and start removing with the next element.
 
 Example:
 ["Keep", "Remove", "Keep", "Remove", "Keep", ...] --> ["Keep", "Keep", "Keep", ...]

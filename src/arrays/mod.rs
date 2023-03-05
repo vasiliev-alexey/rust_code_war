@@ -16,6 +16,9 @@ mod multiplication_table;
 mod josephus_survivor;
 mod monkey_count;
 mod remove_every_other;
+mod josephus;
+mod move_zeros;
+mod bingo;
 
 
 
