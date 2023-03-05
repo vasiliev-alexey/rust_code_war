@@ -19,6 +19,7 @@ mod remove_every_other;
 mod josephus;
 mod move_zeros;
 mod bingo;
+mod max_sequence;
 
 
 
