@@ -20,6 +20,7 @@ mod josephus;
 mod move_zeros;
 mod bingo;
 mod max_sequence;
+mod sum_intervals;
 
 
 

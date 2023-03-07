@@ -23,3 +23,4 @@ mod longest_consec;
 mod unique_in_order;
 mod get_pins;
 mod rgb;
+mod range_extraction;

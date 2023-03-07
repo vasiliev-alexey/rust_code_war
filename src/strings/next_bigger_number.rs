@@ -20,13 +20,13 @@ fn next_bigger_number(n: i64) -> i64 {
             let next_max = filtered_rest.get(0).unwrap().clone();
             let index = digs.iter().position(|&r| r == *next_max).unwrap();
 
-            let mut restDigits = digs.clone();
-            restDigits[index] = num_ord;
-            restDigits.sort();
+            let mut rest_digits = digs.clone();
+            rest_digits[index] = num_ord;
+            rest_digits.sort();
 
             let mut head = digits[0..i - 1].iter().join("");
             head.push_str(&next_max.to_string());
-            head.push_str(&restDigits.iter().join(""));
+            head.push_str(&rest_digits.iter().join(""));
 
             return head.parse::<i64>().unwrap();
         }

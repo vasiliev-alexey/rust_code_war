@@ -11,3 +11,4 @@ mod row_sum_odd_numbers;
 mod square_sum;
 mod nearest_sq;
 mod is_prime;
+mod dig_pow;
