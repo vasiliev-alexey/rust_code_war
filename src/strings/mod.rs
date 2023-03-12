@@ -23,3 +23,6 @@ mod is_valid_ip;
 mod greet;
 mod camel_case;
 mod next_bigger_number;
+mod longest_repetition;
+mod to_camel_case;
+mod solve;

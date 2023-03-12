@@ -22,6 +22,10 @@ mod bingo;
 mod max_sequence;
 mod sum_intervals;
 mod determinant;
+mod cute_pattern;
+mod multiply;
+mod points;
+mod snail;
 
 
 
