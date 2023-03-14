@@ -25,6 +25,7 @@ mod determinant;
 mod cute_pattern;
 mod multiply;
 mod points;
+mod product_array;
 
 
 
