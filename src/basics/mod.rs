@@ -25,3 +25,4 @@ mod get_pins;
 mod rgb;
 mod range_extraction;
 mod get_jumps;
+mod valid_parentheses;
