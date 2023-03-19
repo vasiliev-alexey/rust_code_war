@@ -27,6 +27,8 @@ mod multiply;
 mod points;
 mod product_array;
 mod in_array;
+mod sort_array;
+mod longest_slide_down;
 
 
 

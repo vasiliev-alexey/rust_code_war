@@ -27,3 +27,5 @@ mod longest_repetition;
 mod to_camel_case;
 mod solve;
 mod digital_root;
+mod time_correct;
+mod multi_table;

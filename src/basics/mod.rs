@@ -24,5 +24,6 @@ mod unique_in_order;
 mod get_pins;
 mod rgb;
 mod range_extraction;
+mod sequence_sum;
 mod get_jumps;
 mod valid_parentheses;

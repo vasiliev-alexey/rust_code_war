@@ -13,3 +13,4 @@ mod nearest_sq;
 mod is_prime;
 mod dig_pow;
 mod divisors;
+mod find_height;
