@@ -29,3 +29,5 @@ mod solve;
 mod digital_root;
 mod time_correct;
 mod multi_table;
+mod valid_parentheses;
+mod count;
