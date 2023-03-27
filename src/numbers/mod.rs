@@ -14,6 +14,8 @@ mod is_prime;
 mod dig_pow;
 mod divisors;
 mod find_height;
+mod solution;
+mod count_spec_mult;
 mod gcd;
 mod count_nines;
 

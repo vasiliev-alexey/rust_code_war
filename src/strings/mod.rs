@@ -36,3 +36,4 @@ mod maskify;
 mod valid_parentheses;
 mod count;
 mod to_nato;
+mod switcher;
