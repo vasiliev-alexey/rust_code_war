@@ -32,3 +32,6 @@ mod compute_depth;
 mod distance_to_run;
 mod order_weight;
 mod block;
+mod switch_it_up;
+mod update_light;
+mod feast;

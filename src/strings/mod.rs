@@ -37,3 +37,6 @@ mod valid_parentheses;
 mod count;
 mod to_nato;
 mod switcher;
+mod html_special_chars;
+mod dna_to_rna;
+mod count_sheep;
