@@ -34,6 +34,7 @@ mod barista;
 mod find_multiples;
 mod flip;
 mod index;
+mod slice_plus_slice;
 
 
 
