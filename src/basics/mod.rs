@@ -32,6 +32,8 @@ mod compute_depth;
 mod distance_to_run;
 mod order_weight;
 mod block;
+mod other_angle;
+mod how_many_lightsabers_do_you_own;
 mod switch_it_up;
 mod update_light;
 mod feast;

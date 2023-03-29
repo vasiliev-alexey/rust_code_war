@@ -31,6 +31,7 @@ mod all_non_consecutive;
 mod sort_array;
 mod longest_slide_down;
 mod barista;
+mod find_multiples;
 mod flip;
 mod index;
 

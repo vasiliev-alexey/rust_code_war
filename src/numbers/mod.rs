@@ -18,6 +18,9 @@ mod solution;
 mod count_spec_mult;
 mod gcd;
 mod count_nines;
-mod square_or_square_root;
-mod get_grade;
+mod get_average;
+mod duty_free;
+mod enough;
+mod cockroach_speed;
+mod paperwork;
 
