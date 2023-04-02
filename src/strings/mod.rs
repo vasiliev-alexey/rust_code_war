@@ -40,3 +40,18 @@ mod switcher;
 mod html_special_chars;
 mod dna_to_rna;
 mod count_sheep;
+mod number_to_string;
+mod name_shuffler;
+mod hello;
+mod decode_morse;
+mod decode_morse2;
+mod remove_duplicate_words;
+mod count_duplicates;
+mod shifted_diff;
+mod contamination;
+mod correct_tail;
+mod remove_parentheses;
+mod format_money;
+mod order;
+mod alphabetic;
+

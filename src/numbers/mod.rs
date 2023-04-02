@@ -23,4 +23,5 @@ mod duty_free;
 mod enough;
 mod cockroach_speed;
 mod paperwork;
+mod sum_mix;
 

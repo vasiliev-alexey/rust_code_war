@@ -35,6 +35,13 @@ mod find_multiples;
 mod flip;
 mod index;
 mod slice_plus_slice;
+mod count_by;
+mod generate_range;
+mod first_non_consecutive;
+mod positive_sum;
+mod two_sort;
+mod digitize;
+mod merge_arrays;
 
 
 
