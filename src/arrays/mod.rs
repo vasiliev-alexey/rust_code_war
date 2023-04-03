@@ -42,6 +42,8 @@ mod positive_sum;
 mod two_sort;
 mod digitize;
 mod merge_arrays;
+mod each_cons;
+mod how_much_i_love_you;
 
 
 

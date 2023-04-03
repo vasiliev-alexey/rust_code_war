@@ -54,4 +54,7 @@ mod remove_parentheses;
 mod format_money;
 mod order;
 mod alphabetic;
+mod get_drink_by_profession;
+mod are_you_playing_banjo;
+mod clean_string;
 

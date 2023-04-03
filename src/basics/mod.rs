@@ -49,3 +49,6 @@ mod get_char;
 mod simple_assembler;
 mod usdcny;
 mod derive;
+mod rps;
+mod is_valid_walk;
+mod persistence;

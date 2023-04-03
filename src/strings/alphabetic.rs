@@ -1,9 +1,7 @@
 use itertools::Itertools;
 
 fn alphabetic(s: &str) -> bool {
-     s.chars().sorted_by(| x , y| x.cmp(y)).join("") == s;
-    println!("{v}");
-    v == s
+     s.chars().sorted_by(| x , y| x.cmp(y)).join("") == s
 }
 
 
