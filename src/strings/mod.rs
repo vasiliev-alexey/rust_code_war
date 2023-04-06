@@ -57,4 +57,7 @@ mod alphabetic;
 mod get_drink_by_profession;
 mod are_you_playing_banjo;
 mod clean_string;
+mod generate_shape;
+mod simple_string_reversal;
+mod print;
 

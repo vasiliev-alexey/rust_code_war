@@ -9,7 +9,7 @@ fn persistence(num: u64) -> u64 {
 
     while n >= 10 {
         i = i + 1;
-        let mut num_chars = n.to_string().chars().collect_vec();
+        let  num_chars = n.to_string().chars().collect_vec();
         n = 1;
         for x in num_chars {
             n = n * x.to_digit(10).unwrap() as u64;

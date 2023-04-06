@@ -52,3 +52,6 @@ mod derive;
 mod rps;
 mod is_valid_walk;
 mod persistence;
+mod longest;
+mod find_the_number_plate;
+mod unique_string_characters;

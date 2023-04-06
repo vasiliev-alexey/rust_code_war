@@ -44,6 +44,10 @@ mod digitize;
 mod merge_arrays;
 mod each_cons;
 mod how_much_i_love_you;
+mod nth_smallest;
+mod reverse_list;
+mod odd_or_even;
+mod transpose;
 
 
 

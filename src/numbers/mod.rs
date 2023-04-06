@@ -24,4 +24,5 @@ mod enough;
 mod cockroach_speed;
 mod paperwork;
 mod sum_mix;
+mod is_triangle;
 
