@@ -24,5 +24,16 @@ mod enough;
 mod cockroach_speed;
 mod paperwork;
 mod sum_mix;
+mod highest_bi_prime_factor;
+mod number_joy;
+mod dont_give_me_five;
+mod balanced_num;
+mod strong;
+mod disarium_number;
+mod jumping_number;
+mod special_number;
+mod automorphic;
+mod tidy_number;
+mod num_primorial;
 mod is_triangle;
 

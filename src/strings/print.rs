@@ -16,7 +16,7 @@ fn print(n: i32) -> Option<String> {
         let diamand = "*".repeat((2 * i - 1) as usize );
         arr.push( space + &*diamand + "\n");
     }
-    let mut top = arr.iter().join("");
+    let   top = arr.iter().join("");
     let  bottom = arr.iter().rev().join("");
     return Some(top + &*"*".repeat(n as usize) + "\n" + &bottom);
 }
