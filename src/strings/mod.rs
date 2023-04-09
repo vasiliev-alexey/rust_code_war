@@ -64,4 +64,5 @@ mod increment_string;
 mod generate_shape;
 mod simple_string_reversal;
 mod print;
+mod hamster_me;
 

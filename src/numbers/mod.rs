@@ -36,4 +36,7 @@ mod automorphic;
 mod tidy_number;
 mod num_primorial;
 mod is_triangle;
+mod fortune;
+mod power_sum_dig_term;
+mod postfix_evaluator;
 
