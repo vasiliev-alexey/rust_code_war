@@ -53,6 +53,11 @@ mod nth_smallest;
 mod reverse_list;
 mod odd_or_even;
 mod transpose;
+mod simple_frequency_sort;
+mod min_sum;
+mod max_product;
+mod array_leaders;
+mod adjacent_elements_product;
 mod power_of_two;
 mod find_even_index;
 
