@@ -64,4 +64,5 @@ mod valid_braces;
 mod longest;
 mod find_the_number_plate;
 mod unique_string_characters;
-mod add;
+mod open_or_senior;
+mod oper_array;

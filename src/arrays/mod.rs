@@ -53,6 +53,8 @@ mod nth_smallest;
 mod reverse_list;
 mod odd_or_even;
 mod transpose;
+mod power_of_two;
+mod find_even_index;
 
 
 
