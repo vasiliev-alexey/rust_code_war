@@ -60,6 +60,12 @@ mod array_leaders;
 mod adjacent_elements_product;
 mod power_of_two;
 mod find_even_index;
+mod max_gap;
+mod minimum_steps;
+mod max_tri_sum;
+mod row_weights;
+mod min_value;
+mod minimum_number;
 
 
 

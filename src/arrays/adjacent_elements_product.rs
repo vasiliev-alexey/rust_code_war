@@ -1,7 +1,7 @@
 fn adjacent_elements_product(xs: &[i32]) -> i32 {
     let mut res: Vec<i32> = vec![];
     for i in 0..xs.len() - 1 {
-        res.push((xs[i] * xs[i + 1]));
+        res.push(xs[i] * xs[i + 1]);
     }
     *res.iter().max().unwrap()
 }

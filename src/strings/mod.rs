@@ -66,4 +66,5 @@ mod simple_string_reversal;
 mod print;
 mod hamster_me;
 mod scale;
+mod counting_valleys;
 
