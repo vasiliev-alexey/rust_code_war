@@ -67,3 +67,4 @@ mod unique_string_characters;
 mod open_or_senior;
 mod oper_array;
 mod smallest;
+mod rotate;

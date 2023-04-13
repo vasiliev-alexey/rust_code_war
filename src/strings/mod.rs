@@ -67,4 +67,5 @@ mod print;
 mod hamster_me;
 mod scale;
 mod counting_valleys;
+mod remove;
 

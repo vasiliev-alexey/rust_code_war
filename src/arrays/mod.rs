@@ -66,6 +66,7 @@ mod max_tri_sum;
 mod row_weights;
 mod min_value;
 mod minimum_number;
+mod consecutive;
 
 
 
