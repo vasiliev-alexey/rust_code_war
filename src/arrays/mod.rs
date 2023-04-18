@@ -67,6 +67,9 @@ mod row_weights;
 mod min_value;
 mod minimum_number;
 mod consecutive;
+mod find_deleted_number;
+mod the_game;
+mod part_list;
 
 
 

@@ -41,4 +41,5 @@ mod power_sum_dig_term;
 mod postfix_evaluator;
 mod prev_mult_of_three;
 mod find_nb;
+mod remove_nb;
 
