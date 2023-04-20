@@ -39,7 +39,13 @@ mod is_triangle;
 mod fortune;
 mod power_sum_dig_term;
 mod postfix_evaluator;
+mod evaporator;
+mod evaluate;
+mod find_min_num;
+mod find_next_power;
+mod quadrant;
 mod prev_mult_of_three;
 mod find_nb;
 mod remove_nb;
+mod consecutive_ducks;
 

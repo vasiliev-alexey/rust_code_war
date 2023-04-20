@@ -66,6 +66,9 @@ mod simple_string_reversal;
 mod print;
 mod hamster_me;
 mod scale;
+mod words_to_marks;
+mod switcheroo;
+mod valid_spacing;
 mod counting_valleys;
 mod remove;
 
