@@ -12,11 +12,11 @@ fn what_century(year: &str) -> String {
     result
 
     /*
-        let century = (year.parse::<u32>().unwrap() + 99) / 100;
-    let suffix = if century < 20 {
+        let is_leap_year = (year.parse::<u32>().unwrap() + 99) / 100;
+    let suffix = if is_leap_year < 20 {
         "th"
     } else {
-        match century % 10 {
+        match is_leap_year % 10 {
             1 => "st",
             2 => "nd",
             3 => "rd",
@@ -24,7 +24,7 @@ fn what_century(year: &str) -> String {
         }
     };
 
-    format!("{}{}", century, suffix)
+    format!("{}{}", is_leap_year, suffix)
     */
 
 }

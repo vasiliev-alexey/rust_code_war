@@ -1,3 +1,14 @@
 pub mod sum_cubes;
 pub mod descending_order;
 pub mod bool_to_word;
+pub mod race_podium;
+mod _if;
+mod litres;
+mod find_difference;
+mod zero_fuel;
+mod greet;
+mod odd_count;
+mod divisible_count;
+mod heron;
+mod pofi;
+mod summation;
